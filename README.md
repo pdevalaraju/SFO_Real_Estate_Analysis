@@ -87,9 +87,9 @@ Mapbox token is used to read in neighborhood location data and build an interact
 This Dashboard presents a visual analysis of historical prices of house units, sale price per quare foot and grossrent in San Francisco, California from 2010 to 2016. You can navigate through the tabs above to explore mode details about the evolution of real estate market on the Golden city across these years. You can also select any a specific visual anaalysis from the drop down list box which provides a simple and easy wayto narrow down to a Visualization. Panel library is used to build an interactive dashboard for all of the visualizations.
 
 Select Visualization:
-![dashboard_tab1.png](Images/dashboard_tab1.png)
+  ![dashboard_tab1.png](Images/dashboard_tab1.PNG)
 
-Sample Dashboard:
+Sample Dashboard:t 
 
   ![dashboard-demo.gif](Images/dashboard-demo.gif)
 
